@@ -2,6 +2,7 @@
 ## 文件分工
 - `main.c`：STM32 程序，Keil MDK 编译后烧录至小车板卡
 - `picontrol.py`：树莓派控制脚本，在树莓派端运行
+- - `板卡`：stm32F103RCT
 
 ## 1. 树莓派 ↔ STM32 串口通信（USART1）<br>
 | 树莓派引脚 | STM32引脚 |<br>
